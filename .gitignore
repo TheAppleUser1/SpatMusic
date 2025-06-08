@@ -1,0 +1,4 @@
+# Xcode build artifacts
+.DS_Store
+.build
+DerivedData
